@@ -12,4 +12,4 @@ Let's connect!
 <br />
 [Email 📧](j.m.warners@gmail.com) 
 <br />
-[LinkedIn 🖇](https://www.linkedin.com/in/j-m-warner/) 
+[LinkedIn 🖇](http://www.linkedin.com/in/j-m-warner/) 
