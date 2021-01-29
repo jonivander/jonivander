@@ -1,15 +1,11 @@
 ### Hello there 🙌🏻✨
-<!--
-**jonivander/jonivander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hey, I'm Jonathan (They/Them)! I've always loved building things with my hands and my imagination, so what a better way to do that than as a Web Developer! 
 
-- 🔭 I’m currently working on ... Web development
-- 🌱 I’m currently learning ... C++
-- 👯 I’m looking to collaborate on ... React, JavaScript, Python, and Node
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ... 
-- 📫 How to reach me: ... [Email](j.m.warners@gmail.com)
-- 😄 Pronouns: ... He/They
-- ⚡ Fun fact: ...
--->
+  • I've had years of experience with various areas of design and functionality, from AutoCAD to Woodworking to Music to React.
+  • Currently working with HTML, CSS, JavaScript, React, SQL, Python, and getting into C++
+  • I'm all about building amazing things with and for people to help them feel supported, empowered, and successful. 
+  
+Let's connect! 
+[Email](j.m.warners@gmail.com) 📧
+[LinkedIn](https://www.linkedin.com/in/j-m-warner/) 🖇
