@@ -7,6 +7,6 @@ Hey, I'm Jonathan (They/Them)! I've always loved building things with my hands a
   • I'm all about building amazing things with and for people to help them feel supported, empowered, and successful. 
  <hr />
 Let's connect! 
-[Email](j.m.warners@gmail.com) 📧
+[Email 📧](j.m.warners@gmail.com) 
 <br />
-[LinkedIn](https://www.linkedin.com/in/j-m-warner/) 🖇
+[LinkedIn 🖇](https://www.linkedin.com/in/j-m-warner/) 
