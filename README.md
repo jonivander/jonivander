@@ -1,7 +1,7 @@
 ### Hello there 🙌🏻✨
 <hr />
 Hey, I'm Jonathan (They/Them)! I've always loved building things with my hands and my imagination, so what a better way to do that than as a Web Developer! 
-<br />
+<br /><br />
   • I've had years of experience with various areas of design and functionality, from AutoCAD to Woodworking to Music to React.
   <br />
   • Currently working with HTML, CSS, JavaScript, React, SQL, Python, and getting into C++
